@@ -1,5 +1,5 @@
 var a = prompt("Enter City Name");
-if (a === "Karachi" || "karachi") {
+if (a === "Karachi" || a === "karachi") {
   document.write("Welcome to the city of light");
 }
 else {
